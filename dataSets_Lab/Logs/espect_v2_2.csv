@@ -1,0 +1,6 @@
+0
+Treinamento realizado em 01-04-2024 15:59
+K-Means: Índice de Silhueta = 0.4922633677917143 tempo 15.725519895553589
+DBSCAN: Índice de Silhueta = 0.18148990704559115 tempo 14.92824101448059
+RandomForest: accuracy_score = 0.9792341678939617 tempo 1.4869799613952637
+Gaussian Mixture: Índice de Silhueta = 0.3613956892091372 tempo 15.66386365890503
